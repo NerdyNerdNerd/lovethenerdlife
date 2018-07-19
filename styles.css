@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: #00FF00
+}
+h2 {
+  text-align: center;
+  font-family: "Book Antiqua", "Palatino", serif;
+  font-size: 1.2em;
+  color: #009933
+}
+p {
+   text-align: center;
+   font-family: Georgia, "Times New Roman", Times, serif;
+   font-size: 1.2em;
+   color: #009933
+}
+ body {
+	 background-image: url(../images/grnPwrBtn.jpg);
+	 background-repeat: no-repeat;
+	 //background-position: 50%;	 
+	 background-color: black;
+ }
