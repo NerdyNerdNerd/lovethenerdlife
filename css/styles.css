@@ -16,6 +16,9 @@ text-align: center;
  body {
 	 background-image: url(../images/grnPwrBtn.jpg);
 	 background-repeat: no-repeat;
-	// background-position: 50%;	 
+	 background-position: 50%;	 
 	 background-color: black;
  }
+body, html {
+	height: 100%
+}
